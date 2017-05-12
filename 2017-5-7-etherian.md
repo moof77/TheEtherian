@@ -8,7 +8,7 @@ Slack: (Link to slack signup)
 
 Who is doing what:
 ChaceHunter: 	Swarm, Status, Colony, MakerDAO, UjoMusic
-truewavebreak: ICONOMI, Golem, Augur, AKASHA, MelonPort
+TrueWaveBreak: ICONOMI, Golem, Augur, AKASHA, MelonPort
 MrNebbiolo: uPort, Casper, FirstBlood, Digix
 PΞther Ethlance, SingularDTV, Gnosis, ChronoBank, WeTrust, Matchpool
 Pablanopete: BAT, Giveth, ENS, (Polkadot will be the next project i'm covering, not alot to add RN as gav wood is working on the website) 
